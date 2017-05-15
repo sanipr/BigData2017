@@ -9,3 +9,10 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Sani Puji Rahayu (5113100153)
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7787536089339772/3258763284457526/7934149998552536/latest.html
+
+
+Exercise 7
+
+Yohana Desy Permatasari (5113100038) 
+Lusiana Nurul Aini (5113100147)
+Sani Puji Rahayu (5113100153)
