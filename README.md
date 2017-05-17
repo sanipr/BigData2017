@@ -14,15 +14,14 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 # Exercise 7
 
 Yohana Desy Permatasari (5113100038) 
+
 Tugas 1 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7370676957528754/1680684422219925/1776582390559220/latest.html
 
 Tugas 2
 
-
 Scala :
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7370676957528754/2508741914090720/1776582390559220/latest.html
-
 
 Python :
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7370676957528754/2508741914090739/1776582390559220/latest.html
