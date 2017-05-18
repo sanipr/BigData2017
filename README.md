@@ -40,3 +40,16 @@ Python:
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2855243559745825/1598606606418953/842315345846218/latest.html
 
 Sani Puji Rahayu (5113100153)
+
+Tugas 1
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7787536089339772/2705397965092607/7934149998552536/latest.html
+
+Tugas 2
+
+Scala:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7787536089339772/2705397965092649/7934149998552536/latest.html
+
+Python:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7787536089339772/3564644369276822/7934149998552536/latest.html
+
+
