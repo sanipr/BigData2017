@@ -58,5 +58,8 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 Yohana Desy Permatasari (5113100038) 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7370676957528754/2653680590590991/1776582390559220/latest.html
 
+Lusiana Nurul Aini (5113100147)
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2855243559745825/4418536834105163/842315345846218/latest.html
+
 Sani Puji Rahayu (5113100153)
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7787536089339772/2732927201822078/7934149998552536/latest.html
